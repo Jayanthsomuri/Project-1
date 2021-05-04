@@ -1,2 +1,2 @@
-# https://jayanthsomuri.github.io/Project-1/index.html
-University Website
+# University Website
+https://jayanthsomuri.github.io/Project-1/index.html
